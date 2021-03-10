@@ -1,6 +1,6 @@
 ## Hi there, I'm Rachelle :shell:
 
-```javascript
+```
   pronouns: "she" | "her",
   code: [C++, Python, Javascript, HTML, CSS],
 ```
