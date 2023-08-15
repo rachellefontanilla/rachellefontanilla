@@ -2,7 +2,5 @@
 
 ```
   pronouns: "she" | "her",
-  code: [C, C++, Python, Javascript, HTML, CSS],
+  code: [C, Verilog, C++, Python],
 ```
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rachellefontanilla&count_private=true&theme=buefy&showicons=true)](https://github.com/rachellefontanilla)
