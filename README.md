@@ -2,5 +2,5 @@
 
 ```
   pronouns: "she" | "her",
-  code: [C, Verilog, C++, Python],
+  code: [C, Python, C++, React, Javascript, HTML/CSS],
 ```
